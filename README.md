@@ -1,4 +1,4 @@
-# Sentiment Analysis of Ajaib App Reviews
+# Sentiment Analysis of Traveloka App Reviews
 
 This project aims to perform sentiment analysis on user reviews of the Ajaib app collected from the Google Play Store.
 
