@@ -11,7 +11,7 @@ This project aims to perform sentiment analysis on user reviews of the Traveloka
 - Inference/prediction of sentiment from new reviews
 
 ## 📊 Dataset
-The dataset consists of cleaned and labeled Ajaib app reviews:
+The dataset consists of cleaned and labeled Traveloka app reviews:
 - Labels: Positive, Negative, Neutral
 - Total entries: ~100,000 reviews
 
